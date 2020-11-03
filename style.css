@@ -1,0 +1,43 @@
+html {
+  display: block;
+  overflow-y: scroll;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#page {
+  max-width: 1260px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #ffffff;
+}
+
+body{
+  background: #f5f5f5;
+}
+
+.navbar {
+  justify-content: space-between;
+}
+
+#carouselExampleIndicators {
+  max-width: 80%;
+  display: flex;
+  justify-content: center;
+}
+
+a, .navbar-nav {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  text-decoration: none;
+  color: black;
+}
+
+footer {
+  background-color: blue;
+}
